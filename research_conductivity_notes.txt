@@ -1,0 +1,199 @@
+=== plants-11-01713-v3.pdf ===
+P1: Biomass Estimation of Tap Roots.
+P1: Biomass Estimation of Tap Roots
+P1: Abstract: Root biomass is one of the most relevant root parameters for studies of plant response to en-
+P1: capable of monitoring the changes in root growth and development with three-dimensional imaging
+P1: The impedances are measured for multiple tap roots using an electrical impedance spectroscopy
+P1: conductivity are calculated by obtaining the boundary voltages from the measured impedances for a
+P1: observed accordingly to evaluate the growth of the roots. A further root analysis helps us estimate
+P1: the root biomass non-destructively in real-time. The root size (such as, weight, length) is correlated
+P1: and more than 97% correlation is found for the biomass estimation of carrot roots with an RMSE of
+P1: 4.516. The obtained models are later validated using a new and separate set of carrot root samples
+P1: imaging technique in difference method. The tomography of the root is reconstructed with ﬁnite ele-
+P1: Keywords: electrical impedance tomography; image reconstruction; plant phenotyping; root growth;
+P1: root biomass
+P1: EIT is a non-invasive imaging technique by which the changes in conductivity distri-
+P1: butions are reconstructed. Electrical conductivity images of any closed domain under test
+P2: currents in multiple frequencies. A good conductivity distribution of an object can be
+P2: injected current and known conductivity in the EIT domain. On the other hand, the
+P2: unknown conductivity changes are calculated in the inverse solve by knowing the differ-
+P2: EIT was also used for crop root systems in agriculture in a limited capacity [10–12].
+P2: The root system is complex as it provides water and nutrients which are required
+P2: vestigation into crop root traits, and the growth, development, and biomass of the root
+P2: size, shape, and structure of the roots is very important in biological study of the plant
+P2: characteristics, and their electrical parameters were measured [ 24–27]. Analyses of root
+P2: growth [24], recovery of the root body of a plant system in water [ 25], and the estima-
+P2: tion of root biomass [ 26] were made previously by measuring the electrical capacity.
+P2: Newill et al. imaged the water distribution in the root zone using the capacitively cou-
+P2: characterizing and monitoring an oilseed root system in a water-ﬁlled rhizotron [10]. Imag-
+P2: ing and characterization of the oilseed root using spectral EIT considering polarization
+P2: information of the root system in a rhizotron container with a static array of 38 electrodes
+P2: the other hand, Corona-Lopez et al. visualized the developing root system of oilseed rape
+P3: plants in a compost-ﬁlled container using EIT [12]. Some 3D information of the root system
+P3: reconstructions. During growth and development, the changes in root characteristics can
+P3: difference EIT [7,22,28]. More information of the roots can be obtained using 3D imaging.
+P3: root study. The ability to characterize the root in both water and soil media, to perform
+P3: promising method to fulfill the scope of further research on plant root tomography.
+P3: with the target of rapid biomass estimation of tap roots by non-destructive impedance
+P3: The root system of a carrot is tap root and to evaluate the growth of the root in different
+P3: To visualize the developing root system and associated changes in soil conductivity,
+P3: to obtain the reconstructed images of the samples. The changes in conductivity were
+P3: in conductivity by varying the sample size (weight and length). The conductivity was
+P3: that the increases in conductivity with the increase of sample size indicates the growth and
+P3: development of the root system in soil with time.
+P4: between the actual average impedance and the root size (weight and length) of the samples.
+P4: In addition, the biomass of the root samples can be classiﬁed as very low, low, medium,
+P4: and high from the obtained maximum conductivity changes of 0.017, 0.038, 0.07, and 0.11,
+P4: the calculated conductivity changes for sample 1 was found to be much lower than the
+P4: others. On the other hand, the obtained results show the highest conductivity changes
+P4: for sample 4. The shape of a root sample can also be represented by the variation in
+P4: conductivity in top to bottom layers of the tomography. A noisy and deteriorated shape
+P4: moderate conductivity and a satisfactory result in shape was found for sample 2 (Figure 2b),
+P4: of evaluating the growth and development of the plant root by obtaining the changes in
+P4: conductivity and other associated information from tomography results.
+P5: in conductivity. The conductivity for the lower sized carrot (sample 1) was found to be very low, on
+P5: the other hand, a highest conductivity was found for the higher sized carrot (sample 4). (a) Sample 1
+P6: In another experiment, the actual biomass weight and the length of a carrot root were
+P6: obtain the regression models for predicting the carrot root biomass weight at different
+P7: Figure 5. The regression results for predicting the biomass of carrot roots at frequencies of 5 kHz to
+P7: about the root sample can be obtained by the measured impedances in multiple frequencies.
+P7: Although a close approximation result in conductivity was found, the variations can be
+P7: changes in conductivity along with any variation in dimensions of the sample can also be
+P7: Table 1. Regression performance for predicting carrot root biomass in different frequencies (probabil-
+P8: (a–g) The scale represents the changes in conductivity. (a) 5 kHz; (b) 15 kHz; (c) 25 kHz; (d) 40 kHz;
+P9: The EIS characteristics for a root inhomogeneity in water/soil media and the corre-
+P9: using the regularization techniques. A good tomography for a 6.75 inch carrot root in soil
+P9: The growth and development of a root system was evaluated by measuring impedances
+P9: using the EIT sensor. Layer-wise changes in conductivity were obtained for a given carrot
+P9: root as shown in Figure 2. The shape of different sized root samples and the corresponding
+P9: variation in conductivity were obtained by the tomography results. The increase in changes
+P9: in conductivity with the increase of dimensions of the root indicated the possible growth
+P9: of the root. Impedance was found to be a good indicator in estimating the root biomass
+P9: In the soil–root–electrode continuum, the impedance may vary by the variation of root
+P9: distribution in soil, root density, and the electrodes position from the root. The conductivity
+P9: the physiological process of the root. The multifrequency EIT performed well compared to
+P9: resistance or capacitance tomography for achieving a detail information of the root [10–12].
+P9: In addition, more useful information of the root can be obtained considering time difference
+P10: conductivity. The reconstructed result was obtained by measuring the impedances from middle and
+P11: scale represents the changes in conductivity. A good reconstruction of the carrot was made by
+P12: An additional investigation into the evaluation of tap root growth was made con-
+P12: Another tap root of potato plant species was grown from tuber in soil at room temperature
+P12: sidering an experimental setup similar to Figure 9c. The variation in root impedance and
+P12: the corresponding conductivity was found during growth depending on root length and
+P12: weight. Initially, the root conductivity was low when it was expanded horizontally, and in
+P12: vegetative stage the conductivity was improved by increasing the surface area and weight
+P12: when the root was expanded vertically. The observation was found to be similar to the
+P12: the results obtained using tdEIT. Signiﬁcant changes in calculated conductivity over time
+P12: potato tap root and the method was validated. Also, the method for biomass estimation
+P12: can be extended to multiple potato roots or the roots of other plant species and further
+P12: for biomass estimation of tap roots in soil. Z 11–Z88 are the self-impedances measured from the
+P12: root biomass.
+P13: of the roots using a lower sized electrode array. In another work, Postic et al. proposed a
+P13: rapid estimation of root biomass for wheat plants by measuring capacity using a handheld
+P13: sensor systems for root analysis and shown in Table 3.
+P13: Table 3. Comparison with other EIT sensor systems for root analysis.
+P13: Measurement sensitivity Characterize and monitor the taproots (oilseed) Visualize the development of taproots (oilseed) Evaluate the growth and estimatethe biomass oftap roots (carrot)
+P14: probe connection for the measurements. A good conductivity distribution was found with
+P15: 4.3. Modeling and Calculating Conductivity
+P15: conductivity using 3D EIT.
+P15: A complete electrode model was used to relate the internal conductivity distribution
+P15: EIT system. The conductivity distribution σ is known by the electric potential V in the EIT
+P16: The conductivity map of an object in a single step can be calculated by knowing the
+P16: the current injection in a 3D electrode array system. The optimum conductivity change
+P16: The changes in conductivity were obtained by the following steps: (i) model selection,
+P16: (ii) stimulation, (iii) loading experimental data, and (iv) calculating the conductivity using
+P16: employed as an inverse solver to reconstruct the internal conductivity distribution for
+P16: in conductivity and reconstructing the image of the given inhomogeneity in the domain.
+P16: The conductivity distribution was evaluated for multiple inhomogeneities in the domain.
+P16: difference of those was used to map the conductivity of the inhomogeneity in the domain.
+P16: analysis was performed. Carrot (Daucus carota L.) root was used in the measurements as a
+P16: sample of tap root system. Carrot is a widely cultivated edible plant species with a variety
+P16: of shapes, sizes, and colors. The carrot roots have good storage ability and contain abundant
+P16: biologically active substances. The carrot root is reach in minerals and antioxidants and
+P16: applications. In addition, carrot root has a good conductivity distribution in a wide
+P16: instead of other root plants. The electrical impedance ( Z) of a sample measured by the
+P17: good conductivity distribution with the optimized output excitation and spacing of the
+P18: Next, the designed EIT sensor system was characterized using a tap root system
+P18: such as carrot root in water media. The electrode sticks were placed in a black cylindrical
+P19: obtain the conductivity of the carrot. Although a partial immersion of the carrot is shown
+P20: and inhomogeneous media were utilized to obtain the reconstructed conductivity image
+P20: in conductivity of 0.05 was calculated. The changes in conductivity for the given sample
+P20: 3D information of the sample was obtained showing the variation in conductivity level at
+P20: reconstructed results by improving the accuracy in the shape and size of the root samples
+P20: media. Different sensing methods were applied, and the distributed conductivity in the
+P20: conductivity image of the sample. The maximum changes in conductivity of 0.24 was
+P20: shown in Figure 8c. An optimized conductivity result was obtained using Tikhonov also
+P21: The biomass estimation of tap roots was made at room temperature (20 ◦C) in a
+P21: controlled environment. Multiple carrot roots were taken in different experiments as the
+P21: samples of tap roots and their EIS measurements were carried out. The EIS data taken in
+P21: A non-destructive evaluation of biomass estimation of tap roots is carried out by measur-
+P21: ing impedances using the designed EIT sensor system. The root system is characterized
+P22: be capable of evaluating the growth of the root by calculating the changes in conductivity
+P22: between the biomass and measured impedance of the root and several models are devel-
+P22: oped for biomass estimation of the carrot roots. The obtained models are validated with
+P22: less error, and the tomographic images of the root systems are generated in high spectral
+P22: ranges to obtain more useful information on the growth and development of the roots. The
+P22: proposed EIT sensor system can be explored further in a ﬁeld setting for estimating root
+P22: 3. Bera, T.K.; Nagaraju, J. A MATLAB-Based Boundary Data Simulator for Studying the Resistivity Reconstruction Using Neigh-
+P22: crop root systems. Biogeosciences 2017, 14, 921–939. [CrossRef]
+P22: 11. Weigand, M.; Kemna, A. Imaging and functional characterization of crop root systems using spectroscopic electrical impedance
+P22: plant roots. Plant Methods 2019, 15, 49. [CrossRef] [PubMed]
+P23: 24. Ozier-Lafontaine, H.; Bajazet, T. Analysis of root growth by impedance spectroscopy (EIS).Plant Soil 2005, 277, 299–313. [CrossRef]
+P23: 26. Postic, F.; Doussan, C. Benchmarking electrical methods for rapid estimation of root biomass.Plant Methods 2016, 12, 33. [CrossRef]
+P23: 27. Newill, P .; Karadaglic, D.; Podd, F.; Grieve, B.D.; York, T.A. Electrical impedance imaging of water distribution in the root zone.
+=== study on EIT and 1D 2D CNN.pdf ===
+P1: inverse problem is about inferring the internal conductivity distribution of an object from mea-
+P1: ing the representational capabilities of deep neural networks to reconstruct intricate conductivity
+P1: method, rooted in mathematical formulations and regularisation techniques, are dissected for
+P1: and delineate complex conductivity patterns.
+P1: One novel feature of the study is the incorporation of variable conductivity scenarios, intro-
+P1: conductivity assumptions mimics realistic scenarios where tissues or materials exhibit spatially
+P1: varying electrical properties. Exploring how each method responds to such variable conductivity
+P2: boreholes to locate resistivity anomalies, e.g. minerals or contaminated sites, and it is known as geophysical
+P2: resistivity tomography in the literature.
+P2: conductivity σ within a bounded domain Ω by using measurements of the electrical potential on the boundary
+P3: physical electrical conductivity σ† from a partial knowledge of the map. This inverse problem was first
+P3: 2.1 Theoretical background
+P3: for reconstructing the conductivity σ. Let Ω be an open-bounded domain in Rd (d ≥ 2) with a Lipschitz
+P3: it is equivalent to solving a Neumann forward problem with the physical conductivity σ†, i.e. ϕ = Λ σ,N j,
+P4: step of a Newton method with a constant conductivity as the initial guess. Due to the severe ill-posedness
+P4: 56]. Commonly used penalties include Sobolev smoothness [78, 58] for a smooth conductivity distribution,
+P4: conductivity, sparsity [40, 60, 59] for recovering small inclusions (relative to the background). The combined
+P4: variable conductivity and irregular domain geometry. Newton-type methods have also been applied to EIT
+P5: The sparsity concept is very useful for modelling conductivity distributions with “simple” descriptions away
+P5: from the known background σ0, e.g. when σ consists of an uninteresting background plus some small inclu-
+P5: restricting the admissible conductivity to a smoother subset. Numerically, evaluating the gradient J ′s(σ)
+P6: First, we transform the conductivity equation (1) into a Schr¨ odinger-type equation by substituting eu =√σu and setting q = ∆√σ/√σ and extending σ ≡ 1 outside Ω. Then we obtain
+P6: for k ∈ C \ {0} as shown in [83, Theorem 1.1]. Then D-bar algorithm recovers the conductivity σ from the
+P8: the measured voltages U to conductivity distributions σ, i.e., training a DNN Gθ such that σ ≈ Gθ(U ). Li et
+P8: conductivity in multi-frequency electrical impedance tomography (mfEIT). It unfolds the update steps of the
+P8: employ DNNs to approximate voltage functions {uj}Jj=1 and conductivity σ and then train them together
+P9: regularise inverse problems, to EIT, and optimised the conductivity function by back-propagation and the
+P9: data {(σ†i , Λδσ†i ,D)}Ni=1 (i.e., ground-truth conductivity σ†i and the corresponding noisy measurement data
+P9: capable of directly recovering complex valued conductivity distributions. Finally, even the enclosure method
+P10: Li et al. [74] proposed using CNN to directly learn the map from the measured data and the conductivity
+P11: approximation of the EIT problem for a small perturbation of conductivity distribution σ − σ0:
+P11: where J donates the sensitivity matrix, the method first generates an initial guess of the conductivity dis-
+P11: conductivity values, a structure-aware dual-branch network was designed in [25] to solve EIT problems.
+P12: a conductivity σij ∈ Σj := U (0.2, 0.8) ∪ U(1.2, 2.0). The background conductivity is set to 1. In this way,
+P12: given a point ( x, y) ∈ Pi in the domain/phantom, the conductivity σi(x, y) at that point is therefore given
+P13: • Phantoms Pi, with conductivity σi, i∈ {1, 2, . . . , n}
+P13: /* Sample inclusions and conductivity */
+P13: /* Evaluate conductivity on mesh nodes */
+P13: We also study the performance of the methods in noisy scenarios, i.e. reconstructing the conductivity
+P13: conductivity with mean µˆσ and variance s2ˆσ. ˆσi is the i-th element of ˆσ while σi is the i-th element of σ. N
+P14: Root Mean
+P17: ing task of reconstructing internal conductivity distributions from boundary measurements. We explored
+P17: features and delineate complex conductivity patterns.
+P17: A noteworthy aspect of this study was the introduction of variable conductivity scenarios, mimicking
+P17: textured inclusions and departing from uniform conductivity assumptions. This enabled us to assess how
+P17: each method responds to varying conductivity, shedding light on their robustness and adaptability. Here, the
+P20: [1] G. Alessandrini. Stable determination of conductivity by boundary measurements. Applicable Analysis,
+P20: [7] K. Astala and L. P¨ aiv¨ arinta. Calder´ on’s inverse conductivity problem in the plane.Ann. of Math. (2) ,
+P21: inverse conductivity problem. Int. J. Imag. Syst. Tech. , 2:66–75, 1990.
+P22: [50] M. Hinze, B. Kaltenbacher, and T. N. T. Quyen. Identifying conductivity in electrical impedance
+P23: constant conductivity. Inverse Problems, 36(1):014003, 2019.
+P23: conductivity problem. Inverse Probl. Imaging , 3(4):599–624, 2009.
+P25: [91] L. Rondi. Discrete approximation and regularisation for the inverse conductivity problem. Rend. Istit.
+P25: Nachman for the 2D inverse conductivity problem. Inverse Problems, 16(3):681–699, 2000.
+P25: phase conductivity for electrical impedance tomography using improved convolutional neural network
